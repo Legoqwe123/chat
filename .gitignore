@@ -1,0 +1,9 @@
+#module
+node_modules
+
+#yarn
+yarn-error.log
+
+#firebase
+firebase.json
+firebase.admin.json
